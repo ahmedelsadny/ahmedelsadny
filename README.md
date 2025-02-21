@@ -9,22 +9,21 @@
 [<img src="https://github.com/ahmedelsadny/des/blob/main/hr.gif"/>](https://github.com/ahmedelsadny)
 
 <p align="center">
-<img src="https://telegra.ph/file/1787e92c54bf17866ceb2.jpg">
+<img src="https://github.com/ahmedelsadny/des/blob/main/photo_2025-02-15_13-54-48.jpg">
 </p>
 
-[<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/hr.gif"/>](https://github.com/ahmedelsadny)
 
 <h1> <img src="https://te.legra.ph/file/21e7bb7f0b7b27333a806.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class Anonymous():
+class me():
     def __init__(self):
         self.name = ['ahmed elsadny']
         self.country = ['egyption']
         self.language = ['arabic', 'English']
     def programming_languages(self):
         return [
-            'Python', 'SQL', 'Java', 'Html', 'Css', 'Java Script', 'MongoDB', ''  
+            'Python', 'SQL', 'Java', 'Html', 'Css', 'Java Script', 'MongoDB', 'C++'  
         ]
     def markup_languages(self):
         return [
@@ -33,6 +32,7 @@ class Anonymous():
     def developer_tools(self):
         return [
             'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
+            'Bootstrap', 'tailwind', 'node.js', 'next.js',
             'MongoDB', 'MySQL', 'Azure', 'Digital Ocean'
         ]
     def operating_system(self):
@@ -44,8 +44,6 @@ class Anonymous():
 [<img src="https://github.com/ahmedelsadny/des/blob/main/hr.gif"/>](https://github.com/ahmedelsadny)
 
 <h1> <img src="https://github.com/ahmedelsadny/des/blob/main/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
-
-[<img src="https://github-readme-stats.vercel.app/api?username=AnonymousX1025&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/ahmedelsadny)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonymousX1025&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/ahmedelsadny)
 
 [<img src="https://github.com/ahmedelsadny/des/blob/main/hr.gif"/>](https://github.com/ahmedelsadny)
 
