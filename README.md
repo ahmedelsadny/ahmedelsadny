@@ -55,6 +55,6 @@ class me():
 
 <h1> <img src="https://raw.githubusercontent.com/ahmedelsadny/des/blob/main/songs.gif" width="57px"> ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="75%" />](https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277)
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="75%" />](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h)
 
 [<img src="https://github.com/ahmedelsadny/des/blob/main/hr.gif"/>](https://github.com/ahmedelsadny)
