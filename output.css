@@ -1,0 +1,99 @@
+.shadow-md {
+  --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  max-width: 1125px;
+  margin: 20px auto;
+  border-radius: 300px;
+}
+html {
+  scroll-behavior: smooth;
+}
+.p-3 {
+  padding: 0.75rem;
+}
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+.justify-between {
+  justify-content: space-between;
+}
+.items-center {
+  align-items: center;
+}
+.flex {
+  display: flex;
+}
+.z-20 {
+  z-index: 20;
+}
+.fixed {
+  position: fixed;
+}
+
+::-webkit-scrollbar {
+  width: 14px;
+}
+
+::-webkit-scrollbar-track {
+  background: linear-gradient(135deg, #2e1a47, #4c2c72); /* تدرج ألوان أنيق */
+  border-radius: 10px;
+  box-shadow: inset 0 0 8px rgba(0, 0, 0, 0.3);
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #682490, #8c34c8);
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(104, 36, 144, 0.8);
+  transition: background 0.5s, box-shadow 0.5s;
+  animation: glowFlow 3s infinite alternate;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, #a24ae0, #d18aff);
+  box-shadow: 0 0 20px rgba(140, 52, 200, 1);
+}
+
+@keyframes glowFlow {
+  0% {
+      background: linear-gradient(135deg, #682490, #8c34c8);
+      box-shadow: 0 0 10px rgba(104, 36, 144, 0.8);
+  }
+  50% {
+      background: linear-gradient(135deg, #8c34c8, #a24ae0);
+      box-shadow: 0 0 15px rgba(140, 52, 200, 0.9);
+  }
+  100% {
+      background: linear-gradient(135deg, #a24ae0, #d18aff);
+      box-shadow: 0 0 20px rgba(180, 100, 250, 1);
+  }
+}
+
+#testimonial-slider > div {
+  display: none;
+}
+@media (max-width: 767px) {
+  .flex-col {
+      flex-direction: column;
+  }
+  /* .flex-col {
+      margin-left: 45px;
+  } */
+  .w-96 {
+      width: 99%;
+  }
+  .h-56 {
+      height: 50%;
+  }
+}
+
+@media (max-width: 767px) {
+  .swiper-button-next,
+  .swiper-button-prev {
+    display: none !important;
+  }
+}
+.ada{
+  color: #4c2c72;
+}
