@@ -43,24 +43,9 @@
 
 <hr />
 
-## 🏆 Achievements & Trophies:
-<p align="center">
-  <!-- Fixed Trophies with Blue-Dark Theme -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedelsadny&theme=tokyonight&no-bg=false&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
-<hr />
-
 ## ⚡ Activity Spectrum:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedelsadny&theme=tokyonight&hide_border=true&color=004dff" width="100%" />
-</p>
-
-<hr />
-
-## 🐍 Contribution Snake:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedelsadny/ahmedelsadny/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedelsadny&bg_color=0d1117&color=004dff&line=004dff&point=ffffff&title_color=004dff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <hr />
