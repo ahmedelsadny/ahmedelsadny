@@ -11,7 +11,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ahmedelsadny/des/main/photo_2025-02-15_13-54-48.jpg" width="220" height="220" style="border-radius: 50%; border: 5px solid #004dff; padding: 5px; box-shadow: 0 0 25px rgba(0, 77, 255, 0.6);" />
   
-  <h3>🚀 Full-Stack Developer | Passionate about building seamless experiences</h3>
+  <p>
+    <a href="https://github.com/ahmedelsadny">
+      <!-- Animated Typing Text (Simulates Moving Code/Text) -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=004DFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Passionate+about+System+Design;Transforming+Ideas+Into+Code;Always+Learning+New+Tech" alt="Typing SVG" />
+    </a>
+  </p>
   
   <p>
     <a href="https://github.com/ahmedelsadny"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
