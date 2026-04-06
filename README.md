@@ -13,7 +13,7 @@
   
   <p>
     <a href="https://github.com/ahmedelsadny">
-      <!-- Animated Typing Text (Simulates Moving Code/Text) -->
+      <!-- Animated Typing Text -->
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=004DFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Passionate+about+System+Design;Transforming+Ideas+Into+Code;Always+Learning+New+Tech" alt="Typing SVG" />
     </a>
   </p>
@@ -63,6 +63,17 @@
 - 🌱 **I’m currently learning**: Advanced System Design & Cloud Integration.
 - 💬 **Ask me about**: JavaScript, Backend architectures, and SEO.
 - ⚡ **Fun fact**: I debug faster than I drink my morning coffee! ☕
+
+<hr />
+
+## 🐍 Contribution Snake:
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedelsadny/ahmedelsadny/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedelsadny/ahmedelsadny/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ahmedelsadny/ahmedelsadny/output/github-snake.svg" />
+  </picture>
+</div>
 
 <br />
 
