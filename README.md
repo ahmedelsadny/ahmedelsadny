@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ahmedelsadny/des/main/photo_2025-02-15_13-54-48.jpg" width="220" height="220" style="border-radius: 50%; border: 5px solid #004dff; padding: 5px; box-shadow: 0 0 25px rgba(0, 77, 255, 0.6);" />
   
-  <h3>🚀 Full-Stack Developer | Passionate about building seamless experiences<h3>
+  <h3>🚀 Full-Stack Developer | Passionate about building seamless experiences</h3>
   
   <p>
     <a href="https://github.com/ahmedelsadny"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
@@ -31,11 +31,10 @@
 
 <hr />
 
-## 📊 Performance Metrics:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelsadny&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=004dff&icon_color=004dff" alt="Ahmed's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsadny&layout=compact&theme=tokyonight&hide_border=true&title_color=004dff" alt="Top Langs" height="180" />
-</p>
+## 📊 Consistency & Streak:
+<div align="center">
+  <h3>I am currently building awesome software and maintaining my GitHub streak!</h3>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsadny&theme=tokyonight&hide_border=true&stroke=004dff&ring=004dff&fire=004dff" alt="GitHub Streak" />
@@ -44,6 +43,10 @@
 <hr />
 
 ## ⚡ Activity Spectrum:
+<div align="center">
+  <h3>My Contribution Flow</h3>
+</div>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedelsadny&bg_color=0d1117&color=004dff&line=004dff&point=ffffff&title_color=004dff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
