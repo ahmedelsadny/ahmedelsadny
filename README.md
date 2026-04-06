@@ -1,60 +1,71 @@
-[<img src="https://github.com/ahmedelsadny/des/blob/main/hr.gif"/>](https://github.com/ahmedelsadny)
-
-<h1> <img src="https://telegra.ph/file/d3ff0eb66b74881b0aaeb.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs 𝙰𝙷𝙼𝙴𝙳 𝙴𝙻𝚂𝙰𝙳𝙽𝚈 </h1>
 <p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Elsadny&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
 
-[<img src="https://github.com/ahmedelsadny/des/blob/main/hr.gif"/>](https://github.com/ahmedelsadny)
+# 💫 About Me:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ahmedelsadny/des/main/photo_2025-02-15_13-54-48.jpg" width="220" height="220" style="border-radius: 50%; border: 5px solid #6e5494; padding: 5px; box-shadow: 0 0 25px rgba(110, 84, 148, 0.6);" />
+  
+  <h3>🚀 Full-Stack Developer | Passionate about building seamless experiences</h3>
+  
+  <p>
+    <a href="https://github.com/ahmedelsadny"><img src="https://img.shields.io/badge/GitHub-181717?style=flatre-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://linkedin.com/in/ahmedelsadny"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:ahmedelsadny@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  </p>
+</div>
 
+<hr />
+
+## 💻 Tech Stack & Interests:
 <p align="center">
-<img src="https://github.com/ahmedelsadny/des/blob/main/photo_2025-02-15_13-54-48.jpg">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,git,github,vscode,tailwind,figma,py,cpp,bash,c,docker,aws" />
+  </a>
 </p>
 
+<hr />
 
-<h1> <img src="https://te.legra.ph/file/21e7bb7f0b7b27333a806.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+## 📊 My GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelsadny&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ahmed's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsadny&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180" />
+</p>
 
-```python3
-class me():
-    def __init__(self):
-        self.name = ['ahmed elsadny']
-        self.country = ['egyption']
-        self.language = ['arabic', 'English']
-    def programming_languages(self):
-        return [
-            'Python', 'SQL', 'Java', 'Html', 'Css', 'Java Script', 'MongoDB', 'C++'  
-        ]
-    def markup_languages(self):
-        return [
-            'HTML', 'CSS'
-        ]
-    def developer_tools(self):
-        return [
-            'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
-            'Bootstrap', 'tailwind', 'node.js', 'next.js',
-            'MongoDB', 'MySQL', 'Azure', 'Digital Ocean'
-        ]
-    def operating_system(self):
-        return [
-            'Windows', 'Android', 'Linux'
-        ]
- ```
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsadny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-[<img src="https://github.com/ahmedelsadny/des/blob/main/hr.gif"/>](https://github.com/ahmedelsadny)
+<hr />
 
-<h1> <img src="https://github.com/ahmedelsadny/des/blob/main/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+## 🏆 Achievements & Contributions:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedelsadny&theme=tokyonight&no-bg=true&column=4" alt="Trophies" />
+</p>
 
-[<img src="https://github.com/ahmedelsadny/des/blob/main/hr.gif"/>](https://github.com/ahmedelsadny)
+<hr />
 
-<h1> <img src="https://telegra.ph/file/d3ff0eb66b74881b0aaeb.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+## ⚡ Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedelsadny&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 
-[<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/telegram_icon.png" width="60px">](https://t.me/Programing_codes) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/ahmedelsadny) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/ahmed_.elsadny)
+<hr />
 
-[<img src="https://github.com/ahmedelsadny/des/blob/main/hr.gif"/>](https://github.com/ahmedelsadny)
+## 📫 Let's Connect!
+- 🔭 **I’m currently working on**: Building innovative web solutions and contributing to open-source.
+- 🌱 **I’m currently learning**: Scalable Distributed Systems and Advanced DevSecOps.
+- 💬 **Ask me about**: JavaScript ecosystem, Backend design, and Performance optimization.
+- ⚡ **Fun fact**: I believe that every bug is just an opportunity for a better feature!
 
-<h1> <img src="https://raw.githubusercontent.com/ahmedelsadny/des/blob/main/songs.gif" width="57px"> ᴏɴ sᴘᴏᴛɪғʏ </h1>
+<br />
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="75%" />](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
-[<img src="https://github.com/ahmedelsadny/des/blob/main/hr.gif"/>](https://github.com/ahmedelsadny)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<!-- Last updated: 2026-04-06 -->
