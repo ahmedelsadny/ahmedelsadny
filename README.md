@@ -17,6 +17,15 @@
 
 ---
 
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LearningBotsOfficial/LearningBotsOfficial/output/grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+ 
+
+
+---
 # 💫 About Me:
 <div align="center">
   <img src="https://raw.githubusercontent.com/ahmedelsadny/des/main/photo_2025-02-15_13-54-48.jpg" width="220" height="220" style="border-radius: 50%; border: 5px solid #004dff; padding: 5px; box-shadow: 0 0 25px rgba(0, 77, 255, 0.6);" />
@@ -59,15 +68,26 @@
 
 
 ---
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LearningBotsOfficial/LearningBotsOfficial/output/grid-snake.svg" alt="Snake Animation" width="100%" />
+  
+<!-- Stats Badges -->
+[![GitHub Followers](https://img.shields.io/github/followers/LearningBotsOfficial?label=FOLLOWERS&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/LearningBotsOfficial?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/bisug?label=STARS&style=for-the-badge&color=06b6d4&logo=github&logoColor=white)](https://github.com/?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=LearningBotsOfficial&color=4c1d95&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/LearningBotsOfficial)
 </div>
- 
-
-
 ---
 
+
+## ⚡ Activity Spectrum:
+<div align="center">
+  <h3>My Contribution Flow</h3>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedelsadny&bg_color=0d1117&color=004dff&line=004dff&point=ffffff&title_color=004dff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<hr />
 
 ## 📫 Let's Connect!
 - 🔭 **I’m currently working on**: Building high-performance web solutions.
@@ -77,25 +97,3 @@
 
 <hr />
 
-## 🐍 Contribution Snake:
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedelsadny/ahmedelsadny/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedelsadny/ahmedelsadny/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ahmedelsadny/ahmedelsadny/output/github-snake.svg" />
-  </picture>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=004dff&height=100&section=footer" />
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedelsadny&color=004dff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
