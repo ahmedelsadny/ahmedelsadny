@@ -17,15 +17,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=004dff&height=200&section=header&text=Ahmed%20Elsadny&fontSize=80&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<!-- Moving Dots Particle Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Dynamic_Line.gif" width="100%" />
-</div>
-
 # 💫 About Me:
 <div align="center">
   <img src="https://raw.githubusercontent.com/ahmedelsadny/des/main/photo_2025-02-15_13-54-48.jpg" width="220" height="220" style="border-radius: 50%; border: 5px solid #004dff; padding: 5px; box-shadow: 0 0 25px rgba(0, 77, 255, 0.6);" />
