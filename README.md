@@ -1,3 +1,22 @@
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
+      </td>
+
+  <td width="50"></td>
+
+  <td align="center">
+  <h1>Yash</h1>
+  <h3>Telegram Bot Developer • Python • Automation</h3>
+  </td>
+</tr>
+</table>
+</div>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=004dff&height=200&section=header&text=Ahmed%20Elsadny&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
