@@ -17,6 +17,15 @@
 
 ---
 
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LearningBotsOfficial/LearningBotsOfficial/output/grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+ 
+
+
+---
 # 💫 About Me:
 <div align="center">
   <img src="https://raw.githubusercontent.com/ahmedelsadny/des/main/photo_2025-02-15_13-54-48.jpg" width="220" height="220" style="border-radius: 50%; border: 5px solid #004dff; padding: 5px; box-shadow: 0 0 25px rgba(0, 77, 255, 0.6);" />
