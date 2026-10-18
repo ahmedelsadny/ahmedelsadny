@@ -57,8 +57,6 @@
 
 <hr />
 
-
----
 <div align="center">
   <img src="https://raw.githubusercontent.com/LearningBotsOfficial/LearningBotsOfficial/output/grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
