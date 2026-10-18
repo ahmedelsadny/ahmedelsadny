@@ -9,7 +9,7 @@
 
   <td align="center">
   <h1>Yash</h1>
-  <h3>Telegram Bot Developer • Python • Automation</h3>
+  <h3>Full Stack • Mobile • Python • Automation</h3>
   </td>
 </tr>
 </table>
